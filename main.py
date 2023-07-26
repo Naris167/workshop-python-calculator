@@ -7,6 +7,10 @@ def subtract (num1, num2):
     result = num1 - num2
     print ("The result of subtract is: ",result)
 
+def multiply(num1, num2):
+	result = num1 * num2
+	print("The multiplication result is: ", result)
+
 def main():
     print("Enter the operation you want to perform: ")
 
